@@ -25,16 +25,6 @@
                   WIDTH="1489"
                   HEIGHT="2445">
         
-        <TextBlock HPOS="1417"
-                   VPOS="89"
-                   WIDTH="23"
-                   HEIGHT="23"
-                   ID="eSc_textblock_3e03c8a9"
-                   TAGREFS="BT">
-          <Shape><Polygon POINTS="1440 89 1440 103 1417 112 1417 89"/></Shape>
-          
-        </TextBlock>
-        
 
         
       </PrintSpace>
