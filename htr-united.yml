@@ -34,5 +34,5 @@ volume:
 - metric: lines
   count: 1785
 - metric: regions
-  count: 678
+  count: 673
 transcription-guidelines: SegmOnto
