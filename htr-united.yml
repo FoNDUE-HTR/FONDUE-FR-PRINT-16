@@ -35,4 +35,5 @@ volume:
   count: 3768
 - metric: regions
   count: 938
+citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/CITATION.cff
 transcription-guidelines: SegmOnto
