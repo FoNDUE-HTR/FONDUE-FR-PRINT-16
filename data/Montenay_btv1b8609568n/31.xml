@@ -11,7 +11,7 @@
   </Description>
   
   <Tags>
-    <OtherTag ID="BT1652" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1651" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1650" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1649" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1648" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1647" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1646" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1645" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1644" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
+    <OtherTag ID="BT2322" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1652" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1651" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1650" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1649" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1648" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1647" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1646" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1645" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT1644" LABEL="MainZone" DESCRIPTION="block type MainZone"/>
     <OtherTag ID="LT549" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT550" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT551" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
@@ -24,6 +24,60 @@
                   VPOS="0"
                   WIDTH="2158"
                   HEIGHT="3446">
+        
+        <TextBlock HPOS="482"
+                   VPOS="279"
+                   WIDTH="894"
+                   HEIGHT="92"
+                   ID="eSc_textblock_199bdbf7"
+                   TAGREFS="BT1652">
+          <Shape><Polygon POINTS="482 279 482 371 1376 371 1376 279"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_0fd2901f"
+                    TAGREFS="LT551"
+                    BASELINE="494 347 859 344 908 344 1355 351" 
+                    HPOS="488"
+                    VPOS="246"
+                    WIDTH="865"
+                    HEIGHT="141">
+            <Shape><Polygon POINTS="491 344 488 267 902 267 928 255 948 246 951 246 954 246 956 246 982 255 1005 261 1028 252 1051 246 1054 246 1057 246 1137 249 1310 261 1347 246 1353 350 1350 379 488 387"/></Shape>
+	    <String CONTENT="EMBLE&#39;ME CHRESTIEN"
+                    HPOS="488"
+                    VPOS="246"
+                    WIDTH="865"
+                    HEIGHT="141"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1697"
+                   VPOS="294"
+                   WIDTH="69"
+                   HEIGHT="86"
+                   ID="eSc_textblock_e3d48489"
+                   TAGREFS="BT1650">
+          <Shape><Polygon POINTS="1697 294 1697 380 1766 380 1766 294"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3f76d0a8"
+                    TAGREFS="LT551"
+                    BASELINE="1706 363 1708 363 1725 363 1764 363" 
+                    HPOS="1701"
+                    VPOS="292"
+                    WIDTH="60"
+                    HEIGHT="98">
+            <Shape><Polygon POINTS="1703 361 1701 295 1758 292 1761 361 1761 379 1703 390"/></Shape>
+	    <String CONTENT="6"
+                    HPOS="1701"
+                    VPOS="292"
+                    WIDTH="60"
+                    HEIGHT="98"></String>
+          </TextLine>
+
+          
+        </TextBlock>
         
         <TextBlock HPOS="149"
                    VPOS="1952"
@@ -169,6 +223,16 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="1620"
+                   VPOS="2788"
+                   WIDTH="124"
+                   HEIGHT="115"
+                   ID="eSc_textblock_be8d1882"
+                   TAGREFS="BT1651">
+          <Shape><Polygon POINTS="1744 2802 1744 2891 1632 2903 1620 2812 1660 2801 1682 2788"/></Shape>
+          
           
           <TextLine ID="eSc_line_4df7f317"
                     TAGREFS="LT551"
@@ -185,36 +249,6 @@
                     HEIGHT="153"></String>
           </TextLine>
 
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="482"
-                   VPOS="279"
-                   WIDTH="894"
-                   HEIGHT="92"
-                   ID="eSc_textblock_199bdbf7"
-                   TAGREFS="BT1652">
-          <Shape><Polygon POINTS="482 279 482 371 1376 371 1376 279"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1697"
-                   VPOS="294"
-                   WIDTH="69"
-                   HEIGHT="86"
-                   ID="eSc_textblock_e3d48489"
-                   TAGREFS="BT1650">
-          <Shape><Polygon POINTS="1697 294 1697 380 1766 380 1766 294"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1620"
-                   VPOS="2788"
-                   WIDTH="124"
-                   HEIGHT="115"
-                   ID="eSc_textblock_be8d1882"
-                   TAGREFS="BT1651">
-          <Shape><Polygon POINTS="1744 2802 1744 2891 1632 2903 1620 2812 1660 2801 1682 2788"/></Shape>
           
         </TextBlock>
         
@@ -239,44 +273,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_0fd2901f"
-                    TAGREFS="LT551"
-                    BASELINE="494 347 859 344 908 344 1355 351" 
-                    HPOS="488"
-                    VPOS="246"
-                    WIDTH="865"
-                    HEIGHT="141">
-            <Shape><Polygon POINTS="491 344 488 267 902 267 928 255 948 246 951 246 954 246 956 246 982 255 1005 261 1028 252 1051 246 1054 246 1057 246 1137 249 1310 261 1347 246 1353 350 1350 379 488 387"/></Shape>
-	    <String CONTENT="EMBLE&#39;ME CHRESTIEN"
-                    HPOS="488"
-                    VPOS="246"
-                    WIDTH="865"
-                    HEIGHT="141"></String>
-          </TextLine>
-
-          
-          
-          <TextLine ID="eSc_line_3f76d0a8"
-                    TAGREFS="LT551"
-                    BASELINE="1706 363 1708 363 1725 363 1764 363" 
-                    HPOS="1701"
-                    VPOS="292"
-                    WIDTH="60"
-                    HEIGHT="98">
-            <Shape><Polygon POINTS="1703 361 1701 295 1758 292 1761 361 1761 379 1703 390"/></Shape>
-	    <String CONTENT="6"
-                    HPOS="1701"
-                    VPOS="292"
-                    WIDTH="60"
-                    HEIGHT="98"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
