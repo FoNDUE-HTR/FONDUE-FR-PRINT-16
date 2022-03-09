@@ -28,12 +28,12 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 151445
+  count: 183463
 - metric: files
-  count: 444
+  count: 501
 - metric: lines
-  count: 5738
+  count: 6752
 - metric: regions
-  count: 1278
+  count: 1351
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/CITATION.cff
 transcription-guidelines: SegmOnto
