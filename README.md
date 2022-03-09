@@ -8,4 +8,7 @@ This repo contains the transcription of 16th c. prints.
 
 - Georgette de Montenay, _Emblèmes ou devises chrestiennes_, Lyon : J. Marcorelle, 1571 [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8609568n)
 
-## Licence
+## Licences
+Annotation is CC-BY
+
+<a rel="license" href="https://creativecommons.org/licenses/by/2.0"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/2.0/88x31.png" /></a><br />
