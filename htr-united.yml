@@ -28,11 +28,11 @@ license:
 format: Alto-XML
 volume:
 - metric: characters
-  count: 53208
+  count: 49099
 - metric: files
-  count: 69
+  count: 240
 - metric: lines
-  count: 1899
+  count: 1785
 - metric: regions
-  count: 245
+  count: 678
 transcription-guidelines: SegmOnto
