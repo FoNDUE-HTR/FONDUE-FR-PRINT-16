@@ -34,6 +34,6 @@ volume:
 - metric: lines
   count: 7430
 - metric: regions
-  count: 1449
+  count: 1448
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/CITATION.cff
 transcription-guidelines: SegmOnto
