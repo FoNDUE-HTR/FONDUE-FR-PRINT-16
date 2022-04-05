@@ -33,42 +33,6 @@
                    TAGREFS="BT2400">
           <Shape><Polygon POINTS="405 122 405 181 474 181 474 122"/></Shape>
           
-        </TextBlock>
-        
-        <TextBlock HPOS="722"
-                   VPOS="107"
-                   WIDTH="422"
-                   HEIGHT="71"
-                   ID="eSc_textblock_d4e5b6c9"
-                   TAGREFS="BT2402">
-          <Shape><Polygon POINTS="725 109 722 176 1144 178 1144 107"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="1334"
-                   VPOS="2096"
-                   WIDTH="161"
-                   HEIGHT="79"
-                   ID="eSc_textblock_f8cdd754"
-                   TAGREFS="BT2401">
-          <Shape><Polygon POINTS="1334 2096 1334 2175 1495 2175 1495 2096 1427 2096"/></Shape>
-          
-        </TextBlock>
-        
-        <TextBlock HPOS="403"
-                   VPOS="207"
-                   WIDTH="1099"
-                   HEIGHT="1913"
-                   ID="eSc_textblock_106e5a28"
-                   TAGREFS="BT2398">
-          <Shape><Polygon POINTS="403 213 403 2120 1172 2117 1450 2041 1496 1184 1502 216 682 207"/></Shape>
-          
-        </TextBlock>
-        
-
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
           
           <TextLine ID="eSc_line_396ac578"
                     TAGREFS="LT843"
@@ -86,22 +50,15 @@
           </TextLine>
 
           
-          
-          <TextLine ID="eSc_line_ea557e07"
-                    TAGREFS="LT843"
-                    BASELINE="727 168 1135 163" 
-                    HPOS="719"
-                    VPOS="90"
-                    WIDTH="416"
-                    HEIGHT="107">
-            <Shape><Polygon POINTS="727 168 719 109 733 94 733 92 733 92 735 92 735 92 735 92 738 92 738 92 740 92 1015 102 1047 90 1047 90 1049 90 1049 90 1049 90 1051 90 1051 90 1131 105 1135 163 1133 178 1064 195 1064 195 1064 195 1061 195 1061 195 1061 195 1059 195 1059 195 1059 195 1057 195 1057 195 1049 187 1040 193 1040 195 1040 195 1038 195 1038 195 1038 195 1036 195 1036 195 1036 197 897 197 895 195 895 195 893 195 893 195 864 182 864 182 864 182 780 197 780 197 780 197 778 197 778 197 775 197 723 182"/></Shape>
-	    <String CONTENT="DELIE."
-                    HPOS="719"
-                    VPOS="90"
-                    WIDTH="416"
-                    HEIGHT="107"></String>
-          </TextLine>
-
+        </TextBlock>
+        
+        <TextBlock HPOS="403"
+                   VPOS="207"
+                   WIDTH="1099"
+                   HEIGHT="1913"
+                   ID="eSc_textblock_106e5a28"
+                   TAGREFS="BT2398">
+          <Shape><Polygon POINTS="403 213 403 2120 1172 2117 1450 2041 1496 1184 1502 216 682 207"/></Shape>
           
           
           <TextLine ID="eSc_line_ab67622c"
@@ -562,6 +519,43 @@
           </TextLine>
 
           
+        </TextBlock>
+        
+        <TextBlock HPOS="722"
+                   VPOS="107"
+                   WIDTH="422"
+                   HEIGHT="71"
+                   ID="eSc_textblock_d4e5b6c9"
+                   TAGREFS="BT2402">
+          <Shape><Polygon POINTS="725 109 722 176 1144 178 1144 107"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_ea557e07"
+                    TAGREFS="LT843"
+                    BASELINE="727 168 1135 163" 
+                    HPOS="719"
+                    VPOS="90"
+                    WIDTH="416"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="727 168 719 109 733 94 733 92 733 92 735 92 735 92 735 92 738 92 738 92 740 92 1015 102 1047 90 1047 90 1049 90 1049 90 1049 90 1051 90 1051 90 1131 105 1135 163 1133 178 1064 195 1064 195 1064 195 1061 195 1061 195 1061 195 1059 195 1059 195 1059 195 1057 195 1057 195 1049 187 1040 193 1040 195 1040 195 1038 195 1038 195 1038 195 1036 195 1036 195 1036 197 897 197 895 195 895 195 893 195 893 195 864 182 864 182 864 182 780 197 780 197 780 197 778 197 778 197 775 197 723 182"/></Shape>
+	    <String CONTENT="DELIE."
+                    HPOS="719"
+                    VPOS="90"
+                    WIDTH="416"
+                    HEIGHT="107"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1334"
+                   VPOS="2096"
+                   WIDTH="161"
+                   HEIGHT="79"
+                   ID="eSc_textblock_f8cdd754"
+                   TAGREFS="BT2401">
+          <Shape><Polygon POINTS="1334 2096 1334 2175 1495 2175 1495 2096 1427 2096"/></Shape>
+          
           
           <TextLine ID="eSc_line_93373ef6"
                     TAGREFS="LT843"
@@ -580,6 +574,8 @@
 
           
         </TextBlock>
+        
+
         
       </PrintSpace>
     </Page>
