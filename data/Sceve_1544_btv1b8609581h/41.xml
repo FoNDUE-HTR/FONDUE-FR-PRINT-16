@@ -25,33 +25,6 @@
                   WIDTH="1599"
                   HEIGHT="2518">
         
-        <TextBlock HPOS="1134"
-                   VPOS="127"
-                   WIDTH="67"
-                   HEIGHT="71"
-                   ID="eSc_textblock_f0a797ec"
-                   TAGREFS="BT2400">
-          <Shape><Polygon POINTS="1134 127 1134 198 1201 198 1201 127"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_3ed66faf"
-                    TAGREFS="LT843"
-                    BASELINE="1139 178 1183 176" 
-                    HPOS="1135"
-                    VPOS="104"
-                    WIDTH="48"
-                    HEIGHT="99">
-            <Shape><Polygon POINTS="1139 178 1135 104 1181 117 1183 176 1181 201 1139 203"/></Shape>
-	    <String CONTENT="37"
-                    HPOS="1135"
-                    VPOS="104"
-                    WIDTH="48"
-                    HEIGHT="99"></String>
-          </TextLine>
-
-          
-        </TextBlock>
-        
         <TextBlock HPOS="85"
                    VPOS="118"
                    WIDTH="1133"
@@ -231,23 +204,6 @@
 
           
           
-          <TextLine ID="eSc_line_33d76975"
-                    TAGREFS="LT843"
-                    BASELINE="1053 866 1194 870" 
-                    HPOS="1051"
-                    VPOS="820"
-                    WIDTH="143"
-                    HEIGHT="80">
-            <Shape><Polygon POINTS="1053 866 1051 822 1191 820 1194 870 1191 900 1051 900"/></Shape>
-	    <String CONTENT="(deur"
-                    HPOS="1051"
-                    VPOS="820"
-                    WIDTH="143"
-                    HEIGHT="80"></String>
-          </TextLine>
-
-          
-          
           <TextLine ID="eSc_line_2a70ba03"
                     TAGREFS="LT843"
                     BASELINE="128 851 946 864" 
@@ -261,6 +217,23 @@
                     VPOS="793"
                     WIDTH="827"
                     HEIGHT="107"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_33d76975"
+                    TAGREFS="LT843"
+                    BASELINE="1053 866 1194 870" 
+                    HPOS="1051"
+                    VPOS="820"
+                    WIDTH="143"
+                    HEIGHT="80">
+            <Shape><Polygon POINTS="1053 866 1051 822 1191 820 1194 870 1191 900 1051 900"/></Shape>
+	    <String CONTENT="(deur"
+                    HPOS="1051"
+                    VPOS="820"
+                    WIDTH="143"
+                    HEIGHT="80"></String>
           </TextLine>
 
           
@@ -536,6 +509,50 @@
           </TextLine>
 
           
+          
+          <TextLine ID="eSc_line_17d57fbd"
+                    TAGREFS="LT843"
+                    BASELINE="190 2098 1099 2110" 
+                    HPOS="184"
+                    VPOS="2041"
+                    WIDTH="913"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="188 2096 188 2041 1097 2054 1097 2108 1095 2136 1021 2150 1019 2150 927 2131 921 2131 914 2131 856 2144 854 2144 789 2129 770 2144 770 2146 768 2146 765 2146 765 2148 675 2148 673 2146 671 2146 604 2125 556 2144 553 2144 553 2146 493 2146 491 2144 488 2144 486 2144 459 2121 455 2117 184 2113"/></Shape>
+	    <String CONTENT="Fais ſeulement, Dame, que de tes yeux"
+                    HPOS="184"
+                    VPOS="2041"
+                    WIDTH="913"
+                    HEIGHT="109"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1134"
+                   VPOS="127"
+                   WIDTH="67"
+                   HEIGHT="71"
+                   ID="eSc_textblock_f0a797ec"
+                   TAGREFS="BT2400">
+          <Shape><Polygon POINTS="1134 127 1134 198 1201 198 1201 127"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_3ed66faf"
+                    TAGREFS="LT843"
+                    BASELINE="1139 178 1183 176" 
+                    HPOS="1135"
+                    VPOS="104"
+                    WIDTH="48"
+                    HEIGHT="99">
+            <Shape><Polygon POINTS="1139 178 1135 104 1181 117 1183 176 1181 201 1139 203"/></Shape>
+	    <String CONTENT="37"
+                    HPOS="1135"
+                    VPOS="104"
+                    WIDTH="48"
+                    HEIGHT="99"></String>
+          </TextLine>
+
+          
         </TextBlock>
         
         <TextBlock HPOS="898"
@@ -566,27 +583,6 @@
         </TextBlock>
         
 
-        
-        <TextBlock ID="eSc_dummyblock_">
-          
-          
-          <TextLine ID="eSc_line_17d57fbd"
-                    
-                    BASELINE="190 2098 1099 2110" 
-                    HPOS="184"
-                    VPOS="2041"
-                    WIDTH="913"
-                    HEIGHT="109">
-            <Shape><Polygon POINTS="188 2096 188 2041 1097 2054 1097 2108 1095 2136 1021 2150 1021 2150 1019 2150 1019 2150 1019 2150 927 2131 921 2131 914 2131 856 2144 856 2144 856 2144 854 2144 854 2144 854 2144 789 2129 770 2144 770 2146 768 2146 768 2146 768 2146 765 2146 765 2146 765 2148 675 2148 673 2146 673 2146 671 2146 604 2125 556 2144 556 2144 553 2144 553 2144 553 2146 493 2146 491 2144 491 2144 488 2144 488 2144 488 2144 486 2144 486 2144 459 2121 455 2117 184 2113"/></Shape>
-	    <String CONTENT="Fais ſeulement, Dame, que de tes yeux"
-                    HPOS="184"
-                    VPOS="2041"
-                    WIDTH="913"
-                    HEIGHT="109"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
       </PrintSpace>
     </Page>
