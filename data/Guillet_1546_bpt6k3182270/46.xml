@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1703" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1695" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1702" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1701" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1700" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1699" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1698" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1697" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1696" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT568" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT569" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT570" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT570" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT569" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT568" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -368,13 +368,13 @@
           
           
           <TextLine ID="eSc_line_5db20208"
-                    TAGREFS="LT568"
+                    TAGREFS="LT570"
                     BASELINE="603 179 911 179" 
                     HPOS="603"
                     VPOS="127"
                     WIDTH="308"
                     HEIGHT="75">
-            <Shape><Polygon POINTS="603 179 604 127 631 135 691 127 702 127 702 127 704 127 704 127 716 129 764 135 909 132 911 179 907 198 885 190 862 198 855 200 854 200 854 200 854 202 740 202 739 200 739 200 737 200 737 200 737 200 735 200 735 200 735 198 734 197 726 190 603 195"/></Shape>
+            <Shape><Polygon POINTS="603 179 604 127 631 135 691 127 702 127 704 127 716 129 764 135 909 132 911 179 907 198 885 190 862 198 855 200 854 200 854 202 740 202 739 200 737 200 735 200 735 198 734 197 726 190 603 195"/></Shape>
 	    <String CONTENT="RITHMES"
                     HPOS="603"
                     VPOS="127"

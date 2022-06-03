@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1703" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1695" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1702" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1701" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1700" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1699" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1698" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1697" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1696" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT568" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT569" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT570" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT570" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT569" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT568" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -35,13 +35,13 @@
           
           
           <TextLine ID="eSc_line_d5764980"
-                    TAGREFS="LT568"
+                    TAGREFS="LT570"
                     BASELINE="514 217 825 217" 
                     HPOS="513"
                     VPOS="160"
                     WIDTH="312"
                     HEIGHT="70">
-            <Shape><Polygon POINTS="514 217 516 165 528 170 540 165 551 160 551 160 552 160 552 160 552 160 554 160 554 160 554 160 555 160 555 160 568 165 576 170 581 167 587 160 587 160 588 160 588 160 588 160 590 160 590 160 592 160 652 160 652 160 652 160 653 160 653 160 653 160 655 160 655 160 663 168 666 172 742 172 743 170 759 162 759 162 759 162 761 162 761 162 762 162 762 162 825 172 825 217 824 230 513 225"/></Shape>
+            <Shape><Polygon POINTS="514 217 516 165 528 170 540 165 551 160 552 160 554 160 555 160 568 165 576 170 581 167 587 160 588 160 590 160 592 160 652 160 653 160 655 160 663 168 666 172 742 172 743 170 759 162 761 162 762 162 825 172 825 217 824 230 513 225"/></Shape>
 	    <String CONTENT="RITHMES"
                     HPOS="513"
                     VPOS="160"

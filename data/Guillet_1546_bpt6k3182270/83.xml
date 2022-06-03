@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1703" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1695" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1702" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1701" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1700" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1699" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1698" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT1697" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1696" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT568" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT569" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT570" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT570" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT569" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT568" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -35,13 +35,13 @@
           
           
           <TextLine ID="eSc_line_e2a12541"
-                    TAGREFS="LT568"
+                    TAGREFS="LT570"
                     BASELINE="128 190 835 176" 
                     HPOS="124"
                     VPOS="108"
                     WIDTH="711"
                     HEIGHT="93">
-            <Shape><Polygon POINTS="128 190 124 140 306 137 308 136 334 116 334 116 336 116 336 116 337 116 337 116 337 116 339 116 418 120 437 113 437 113 438 113 438 113 438 113 440 113 440 113 492 120 509 113 509 113 509 113 511 113 511 113 513 113 513 113 513 113 514 113 514 113 514 113 534 123 550 111 550 111 551 111 551 111 551 111 553 111 553 111 554 111 554 111 554 111 599 120 612 109 612 109 613 109 613 109 613 109 615 109 615 109 616 109 616 109 685 116 705 108 705 108 706 108 706 108 706 108 708 108 708 108 709 108 709 108 709 108 748 127 778 117 779 117 779 117 779 117 781 117 781 117 832 127 835 176 833 181 128 201"/></Shape>
+            <Shape><Polygon POINTS="128 190 124 140 306 137 308 136 334 116 336 116 337 116 339 116 418 120 437 113 438 113 440 113 492 120 509 113 511 113 513 113 514 113 534 123 550 111 551 111 553 111 554 111 599 120 612 109 613 109 615 109 616 109 685 116 705 108 706 108 708 108 709 108 748 127 778 117 779 117 781 117 832 127 835 176 833 181 128 201"/></Shape>
 	    <String CONTENT="DE D. P. DV GVILLET."
                     HPOS="124"
                     VPOS="108"
