@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT2399" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2398" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2397" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2396" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2404" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2403" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2402" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2401" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2400" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1269" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -62,13 +62,13 @@
           
           
           <TextLine ID="eSc_line_05bf763f"
-                    TAGREFS="LT843"
+                    TAGREFS="LT844"
                     BASELINE="680 161 1063 163" 
                     HPOS="678"
                     VPOS="88"
                     WIDTH="385"
                     HEIGHT="92">
-            <Shape><Polygon POINTS="680 161 680 94 775 100 796 96 821 90 823 90 823 90 825 90 825 90 825 90 828 90 828 90 844 96 853 100 855 96 863 90 863 90 865 90 865 90 865 90 868 90 868 90 870 90 870 90 870 90 872 90 899 98 910 100 926 98 1002 88 1002 88 1004 88 1004 88 1006 88 1063 102 1063 163 1061 180 678 180"/></Shape>
+            <Shape><Polygon POINTS="680 161 680 94 775 100 796 96 821 90 823 90 825 90 828 90 844 96 853 100 855 96 863 90 865 90 868 90 870 90 872 90 899 98 910 100 926 98 1002 88 1004 88 1006 88 1063 102 1063 163 1061 180 678 180"/></Shape>
 	    <String CONTENT="DELIE."
                     HPOS="678"
                     VPOS="88"
