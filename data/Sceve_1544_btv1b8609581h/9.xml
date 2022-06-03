@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT2399" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2398" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2397" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2396" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2404" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2403" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2402" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2401" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2400" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1269" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -24,33 +24,6 @@
                   VPOS="0"
                   WIDTH="1631"
                   HEIGHT="2519">
-        
-        <TextBlock HPOS="1234"
-                   VPOS="161"
-                   WIDTH="51"
-                   HEIGHT="66"
-                   ID="eSc_textblock_7da40b5a"
-                   TAGREFS="BT2400">
-          <Shape><Polygon POINTS="1234 161 1234 227 1285 227 1285 161"/></Shape>
-          
-          
-          <TextLine ID="eSc_line_565cac26"
-                    TAGREFS="LT843"
-                    BASELINE="1239 210 1276 210" 
-                    HPOS="1233"
-                    VPOS="134"
-                    WIDTH="42"
-                    HEIGHT="92">
-            <Shape><Polygon POINTS="1237 209 1233 146 1271 134 1275 209 1275 226 1237 226"/></Shape>
-	    <String CONTENT="5"
-                    HPOS="1233"
-                    VPOS="134"
-                    WIDTH="42"
-                    HEIGHT="92"></String>
-          </TextLine>
-
-          
-        </TextBlock>
         
         <TextBlock HPOS="175"
                    VPOS="85"
@@ -91,6 +64,23 @@
                     VPOS="199"
                     WIDTH="889"
                     HEIGHT="101"></String>
+          </TextLine>
+
+          
+          
+          <TextLine ID="eSc_line_a21b7fb8"
+                    TAGREFS="LT1269"
+                    BASELINE="206 394 318 394" 
+                    HPOS="205"
+                    VPOS="220"
+                    WIDTH="112"
+                    HEIGHT="191">
+            <Shape><Polygon POINTS="205 411 317 407 317 392 317 228 205 220 205 392"/></Shape>
+	    <String CONTENT=""
+                    HPOS="205"
+                    VPOS="220"
+                    WIDTH="112"
+                    HEIGHT="191"></String>
           </TextLine>
 
           
@@ -533,6 +523,33 @@
                     VPOS="2046"
                     WIDTH="1030"
                     HEIGHT="107"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+        <TextBlock HPOS="1234"
+                   VPOS="161"
+                   WIDTH="51"
+                   HEIGHT="66"
+                   ID="eSc_textblock_7da40b5a"
+                   TAGREFS="BT2400">
+          <Shape><Polygon POINTS="1234 161 1234 227 1285 227 1285 161"/></Shape>
+          
+          
+          <TextLine ID="eSc_line_565cac26"
+                    TAGREFS="LT843"
+                    BASELINE="1239 210 1276 210" 
+                    HPOS="1233"
+                    VPOS="134"
+                    WIDTH="42"
+                    HEIGHT="92">
+            <Shape><Polygon POINTS="1237 209 1233 146 1271 134 1275 209 1275 226 1237 226"/></Shape>
+	    <String CONTENT="5"
+                    HPOS="1233"
+                    VPOS="134"
+                    WIDTH="42"
+                    HEIGHT="92"></String>
           </TextLine>
 
           
