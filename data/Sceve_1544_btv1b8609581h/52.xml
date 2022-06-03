@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT2399" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2398" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2397" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2396" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2404" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2403" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2402" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2401" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2400" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1269" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -62,13 +62,13 @@
           
           
           <TextLine ID="eSc_line_f9e87180"
-                    TAGREFS="LT843"
+                    TAGREFS="LT844"
                     BASELINE="695 157 1086 157" 
                     HPOS="693"
                     VPOS="90"
                     WIDTH="398"
                     HEIGHT="107">
-            <Shape><Polygon POINTS="695 157 695 90 1086 90 1086 157 1091 182 1074 195 1074 195 1072 195 1072 195 1072 195 1070 195 1070 195 1070 197 922 197 920 195 920 195 918 195 918 195 918 195 916 195 891 176 885 172 868 176 836 182 836 182 836 182 834 182 693 170"/></Shape>
+            <Shape><Polygon POINTS="695 157 695 90 1086 90 1086 157 1091 182 1074 195 1072 195 1070 195 1070 197 922 197 920 195 918 195 916 195 891 176 885 172 868 176 836 182 834 182 693 170"/></Shape>
 	    <String CONTENT="DELIE."
                     HPOS="693"
                     VPOS="90"
