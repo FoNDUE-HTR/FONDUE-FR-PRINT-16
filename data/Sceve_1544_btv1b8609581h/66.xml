@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT2399" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2398" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2397" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2396" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2404" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2403" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2402" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2401" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2400" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1269" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -62,13 +62,13 @@
           
           
           <TextLine ID="eSc_line_31b9b860"
-                    TAGREFS="LT843"
+                    TAGREFS="LT844"
                     BASELINE="670 167 1034 163" 
                     HPOS="666"
                     VPOS="77"
                     WIDTH="366"
                     HEIGHT="107">
-            <Shape><Polygon POINTS="668 165 666 92 839 94 843 92 858 79 858 79 860 79 860 79 860 79 862 79 862 79 862 79 864 79 864 79 866 79 866 79 898 90 996 77 996 77 999 77 999 77 999 77 1001 77 1001 77 1001 77 1030 94 1032 161 1032 172 668 184"/></Shape>
+            <Shape><Polygon POINTS="668 165 666 92 839 94 843 92 858 79 860 79 862 79 864 79 866 79 898 90 996 77 999 77 1001 77 1030 94 1032 161 1032 172 668 184"/></Shape>
 	    <String CONTENT="DELIE."
                     HPOS="666"
                     VPOS="77"
