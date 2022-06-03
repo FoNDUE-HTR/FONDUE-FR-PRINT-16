@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT2399" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT2398" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT2397" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT2396" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT2404" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT2403" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT2402" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT2401" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT2400" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/>
-    <OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
+    <OtherTag ID="LT1269" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT844" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT843" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -531,13 +531,13 @@
           
           
           <TextLine ID="eSc_line_ea557e07"
-                    TAGREFS="LT843"
+                    TAGREFS="LT844"
                     BASELINE="727 168 1135 163" 
                     HPOS="719"
                     VPOS="90"
                     WIDTH="416"
                     HEIGHT="107">
-            <Shape><Polygon POINTS="727 168 719 109 733 94 733 92 733 92 735 92 735 92 735 92 738 92 738 92 740 92 1015 102 1047 90 1047 90 1049 90 1049 90 1049 90 1051 90 1051 90 1131 105 1135 163 1133 178 1064 195 1064 195 1064 195 1061 195 1061 195 1061 195 1059 195 1059 195 1059 195 1057 195 1057 195 1049 187 1040 193 1040 195 1040 195 1038 195 1038 195 1038 195 1036 195 1036 195 1036 197 897 197 895 195 895 195 893 195 893 195 864 182 864 182 864 182 780 197 780 197 780 197 778 197 778 197 775 197 723 182"/></Shape>
+            <Shape><Polygon POINTS="727 168 719 109 733 94 733 92 735 92 738 92 740 92 1015 102 1047 90 1049 90 1051 90 1131 105 1135 163 1133 178 1064 195 1061 195 1059 195 1057 195 1049 187 1040 193 1040 195 1038 195 1036 195 1036 197 897 197 895 195 893 195 864 182 780 197 778 197 775 197 723 182"/></Shape>
 	    <String CONTENT="DELIE."
                     HPOS="719"
                     VPOS="90"
