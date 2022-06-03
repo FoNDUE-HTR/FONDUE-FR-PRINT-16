@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1670" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1663" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1669" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1668" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1667" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1666" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1665" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1664" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -62,13 +62,13 @@
           
           
           <TextLine ID="eSc_line_7e21dcac"
-                    TAGREFS="LT555"
+                    TAGREFS="LT557"
                     BASELINE="379 197 1003 189" 
                     HPOS="370"
                     VPOS="122"
                     WIDTH="633"
                     HEIGHT="86">
-            <Shape><Polygon POINTS="379 197 370 141 412 129 414 129 414 129 416 129 416 129 493 139 501 139 504 139 526 126 526 126 526 126 529 126 529 126 531 126 531 126 531 126 581 137 583 137 718 137 718 135 731 124 731 124 733 124 733 124 733 124 735 124 735 124 737 124 737 124 831 133 841 124 841 122 841 122 843 122 843 122 843 122 845 122 845 122 847 122 847 122 847 122 849 122 849 122 849 122 851 122 851 122 851 124 862 133 914 122 914 122 916 122 916 122 999 133 1003 189 1001 208 379 208"/></Shape>
+            <Shape><Polygon POINTS="379 197 370 141 412 129 414 129 416 129 493 139 501 139 504 139 526 126 529 126 531 126 581 137 583 137 718 137 718 135 731 124 733 124 735 124 737 124 831 133 841 124 841 122 843 122 845 122 847 122 849 122 851 122 851 124 862 133 914 122 916 122 999 133 1003 189 1001 208 379 208"/></Shape>
 	    <String CONTENT="AMOVREVSES."
                     HPOS="370"
                     VPOS="122"

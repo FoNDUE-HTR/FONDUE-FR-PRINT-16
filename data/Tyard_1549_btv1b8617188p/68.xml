@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1670" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1663" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1669" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1668" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1667" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1666" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1665" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1664" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -62,18 +62,18 @@
           
           
           <TextLine ID="eSc_line_8e535eb2"
-                    TAGREFS="LT555"
-                    BASELINE="552 159 1003 155" 
-                    HPOS="550"
-                    VPOS="86"
-                    WIDTH="453"
-                    HEIGHT="87">
-            <Shape><Polygon POINTS="552 159 550 90 769 99 806 86 810 86 812 86 812 86 812 86 815 86 815 86 817 86 817 86 817 86 819 86 819 86 835 97 997 86 1003 155 1001 171 552 173"/></Shape>
+                    TAGREFS="LT557"
+                    BASELINE="556 159 1003 155" 
+                    HPOS="552"
+                    VPOS="99"
+                    WIDTH="449"
+                    HEIGHT="74">
+            <Shape><Polygon POINTS="986 105 966 105 945 105 924 105 904 105 883 103 862 103 841 103 821 103 800 103 779 103 759 101 738 101 717 101 697 101 676 101 655 99 635 99 614 99 593 99 573 99 552 105 554 157 554 173 999 173 1001 155 995 117 986 105"/></Shape>
 	    <String CONTENT="ERREVRS"
-                    HPOS="550"
-                    VPOS="86"
-                    WIDTH="453"
-                    HEIGHT="87"></String>
+                    HPOS="552"
+                    VPOS="99"
+                    WIDTH="449"
+                    HEIGHT="74"></String>
           </TextLine>
 
           

@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1670" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1663" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1669" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1668" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1667" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1666" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1665" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1664" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -62,13 +62,13 @@
           
           
           <TextLine ID="eSc_line_011934e2"
-                    TAGREFS="LT555"
+                    TAGREFS="LT557"
                     BASELINE="335 168 970 156" 
                     HPOS="329"
                     VPOS="91"
                     WIDTH="641"
                     HEIGHT="88">
-            <Shape><Polygon POINTS="335 168 329 114 474 112 474 110 487 99 487 99 489 99 489 99 489 99 491 99 491 99 493 99 493 99 493 99 495 99 526 110 531 110 535 110 560 97 560 97 562 97 562 97 562 97 564 97 779 104 789 104 793 104 862 91 862 91 864 91 864 91 966 102 970 156 970 166 335 179"/></Shape>
+            <Shape><Polygon POINTS="335 168 329 114 474 112 474 110 487 99 489 99 491 99 493 99 495 99 526 110 531 110 535 110 560 97 562 97 564 97 779 104 789 104 793 104 862 91 864 91 966 102 970 156 970 166 335 179"/></Shape>
 	    <String CONTENT="AMOVREVSES."
                     HPOS="329"
                     VPOS="91"

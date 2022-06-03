@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1670" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1663" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1669" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1668" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1667" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1666" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1665" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1664" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -35,13 +35,13 @@
           
           
           <TextLine ID="eSc_line_763f7bc5"
-                    TAGREFS="LT555"
+                    TAGREFS="LT557"
                     BASELINE="323 186 940 182" 
                     HPOS="314"
                     VPOS="119"
                     WIDTH="626"
                     HEIGHT="88">
-            <Shape><Polygon POINTS="323 186 314 134 335 121 337 121 337 121 339 121 339 121 339 121 342 121 342 121 342 121 384 130 644 119 646 119 936 130 940 182 940 197 486 207 484 207 321 197"/></Shape>
+            <Shape><Polygon POINTS="323 186 314 134 335 121 337 121 339 121 342 121 384 130 644 119 646 119 936 130 940 182 940 197 486 207 484 207 321 197"/></Shape>
 	    <String CONTENT="AMOVREVSES."
                     HPOS="314"
                     VPOS="119"

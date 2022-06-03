@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1670" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1663" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1669" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1668" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1667" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1666" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1665" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1664" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -62,13 +62,13 @@
           
           
           <TextLine ID="eSc_line_7cd374de"
-                    TAGREFS="LT555"
+                    TAGREFS="LT557"
                     BASELINE="551 174 1003 174" 
                     HPOS="551"
                     VPOS="105"
                     WIDTH="452"
                     HEIGHT="91">
-            <Shape><Polygon POINTS="551 174 551 105 659 116 715 107 727 105 727 105 729 105 1003 111 1003 174 1003 184 847 196 845 196 845 196 845 196 812 190 789 186 771 192 752 196 750 196 750 196 750 196 748 196 748 196 746 196 746 196 746 196 737 192 727 186 719 192 715 196 715 196 712 196 712 196 710 196 710 196 710 196 708 196 708 196 708 196 692 194 661 186 625 194 619 196 617 196 617 196 615 196 615 196 615 196 613 196 613 196 611 196 611 196 594 186 553 196"/></Shape>
+            <Shape><Polygon POINTS="551 174 551 105 659 116 715 107 727 105 729 105 1003 111 1003 174 1003 184 847 196 845 196 812 190 789 186 771 192 752 196 750 196 748 196 746 196 737 192 727 186 719 192 715 196 712 196 710 196 708 196 692 194 661 186 625 194 619 196 617 196 615 196 613 196 611 196 594 186 553 196"/></Shape>
 	    <String CONTENT="ERREVRS"
                     HPOS="551"
                     VPOS="105"

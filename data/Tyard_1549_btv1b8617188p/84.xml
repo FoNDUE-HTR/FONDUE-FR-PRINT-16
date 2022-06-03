@@ -12,7 +12,7 @@
   
   <Tags>
     <OtherTag ID="BT1670" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT1663" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT1669" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT1668" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT1667" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT1666" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT1665" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT1664" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/>
-    <OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/>
+    <OtherTag ID="LT557" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT556" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT555" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/>
   </Tags>
   
   <Layout>
@@ -52,13 +52,13 @@
           
           
           <TextLine ID="eSc_line_4e8bfd2c"
-                    TAGREFS="LT555"
+                    TAGREFS="LT557"
                     BASELINE="530 178 989 171" 
                     HPOS="526"
                     VPOS="91"
                     WIDTH="463"
                     HEIGHT="101">
-            <Shape><Polygon POINTS="530 178 526 93 559 93 559 93 559 93 561 93 561 93 561 93 561 93 564 93 564 93 564 95 578 107 653 95 678 91 678 91 680 91 680 91 680 91 700 95 746 105 806 97 854 91 854 91 856 91 856 91 858 91 858 91 858 91 860 91 860 91 868 97 877 103 982 101 989 171 989 184 530 192"/></Shape>
+            <Shape><Polygon POINTS="530 178 526 93 559 93 561 93 564 93 564 95 578 107 653 95 678 91 680 91 700 95 746 105 806 97 854 91 856 91 858 91 860 91 868 97 877 103 982 101 989 171 989 184 530 192"/></Shape>
 	    <String CONTENT="ERREVRS"
                     HPOS="526"
                     VPOS="91"
