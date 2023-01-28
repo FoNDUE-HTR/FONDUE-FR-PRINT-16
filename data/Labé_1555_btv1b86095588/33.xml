@@ -41,7 +41,7 @@
                     VPOS="17"
                     WIDTH="458"
                     HEIGHT="41">
-            <Shape><Polygon POINTS="244 42 244 58 700 56 702 40 696 17 258 17 244 42"/></Shape>
+            <Shape><Polygon POINTS="244 58 700 56 702 40 696 17 258 17 244 42"/></Shape>
 	    <String CONTENT="DE FOLIE ET"
                     HPOS="244"
                     VPOS="17"

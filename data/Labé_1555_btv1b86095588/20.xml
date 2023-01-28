@@ -35,13 +35,13 @@
           
           
           <TextLine ID="eSc_line_cb92580c"
-                    TAGREFS="LT1422"
+                    TAGREFS="LT1420"
                     BASELINE="412 146 673 146" 
                     HPOS="411"
                     VPOS="83"
                     WIDTH="260"
                     HEIGHT="71">
-            <Shape><Polygon POINTS="411 150 669 154 671 144 671 95 489 83 487 83 485 83 476 85 446 93 413 83 411 144 411 150"/></Shape>
+            <Shape><Polygon POINTS="669 154 671 144 671 95 489 83 487 83 485 83 476 85 446 93 413 83 411 144 411 150"/></Shape>
 	    <String CONTENT="FOLIE,"
                     HPOS="411"
                     VPOS="83"
@@ -52,13 +52,13 @@
           
           
           <TextLine ID="eSc_line_01ef488b"
-                    TAGREFS="LT1422"
+                    TAGREFS="LT1420"
                     BASELINE="48 210 371 216" 
                     HPOS="44"
                     VPOS="148"
                     WIDTH="326"
                     HEIGHT="87">
-            <Shape><Polygon POINTS="46 208 44 232 89 234 91 234 93 234 95 234 95 232 97 232 107 222 134 230 152 235 154 235 156 235 368 224 370 214 368 165 292 165 279 159 265 152 263 152 261 152 200 156 107 161 46 148 46 208"/></Shape>
+            <Shape><Polygon POINTS="44 232 89 234 91 234 93 234 95 234 95 232 97 232 107 222 134 230 152 235 154 235 156 235 368 224 370 214 368 165 292 165 279 159 265 152 263 152 261 152 200 156 107 161 46 148 46 208"/></Shape>
 	    <String CONTENT="Les Perſonnes"
                     HPOS="44"
                     VPOS="148"
@@ -69,13 +69,13 @@
           
           
           <TextLine ID="eSc_line_b6a03cb7"
-                    TAGREFS="LT1422"
+                    TAGREFS="LT1420"
                     BASELINE="774 146 1088 152" 
                     HPOS="768"
                     VPOS="72"
                     WIDTH="320"
                     HEIGHT="97">
-            <Shape><Polygon POINTS="774 146 772 101 958 72 958 72 960 72 960 72 960 72 962 72 962 72 963 72 997 93 1086 107 1088 152 1084 169 843 156 839 156 807 165 805 165 805 165 805 165 803 165 803 165 802 165 802 165 768 152"/></Shape>
+            <Shape><Polygon POINTS="774 146 772 101 958 72 960 72 962 72 963 72 997 93 1086 107 1088 152 1084 169 843 156 839 156 807 165 805 165 803 165 802 165 768 152"/></Shape>
 	    <String CONTENT="AMOVR,"
                     HPOS="768"
                     VPOS="72"
@@ -86,13 +86,13 @@
           
           
           <TextLine ID="eSc_line_b6be1f8b"
-                    
+                    TAGREFS="LT1420"
                     BASELINE="409 217 682 222" 
                     HPOS="405"
                     VPOS="159"
                     WIDTH="276"
                     HEIGHT="69">
-            <Shape><Polygon POINTS="407 216 405 222 677 228 681 220 681 179 544 163 542 163 540 163 526 167 499 175 407 159 407 216"/></Shape>
+            <Shape><Polygon POINTS="405 222 677 228 681 220 681 179 544 163 542 163 540 163 526 167 499 175 407 159 407 216"/></Shape>
 	    <String CONTENT="VENVS,"
                     HPOS="405"
                     VPOS="159"
@@ -103,13 +103,13 @@
           
           
           <TextLine ID="eSc_line_6581cc8d"
-                    TAGREFS="LT1422"
+                    TAGREFS="LT1420"
                     BASELINE="772 222 1129 232" 
                     HPOS="770"
                     VPOS="177"
                     WIDTH="359"
                     HEIGHT="72">
-            <Shape><Polygon POINTS="772 222 770 179 1057 177 1059 177 1059 177 1127 189 1129 232 1125 249 1053 237 770 237"/></Shape>
+            <Shape><Polygon POINTS="772 222 770 179 1057 177 1059 177 1127 189 1129 232 1125 249 1053 237 770 237"/></Shape>
 	    <String CONTENT="IVPITER,"
                     HPOS="770"
                     VPOS="177"
@@ -120,7 +120,7 @@
           
           
           <TextLine ID="eSc_line_6033cf1b"
-                    TAGREFS="LT1422"
+                    TAGREFS="LT1420"
                     BASELINE="400 292 1151 308" 
                     HPOS="398"
                     VPOS="246"
