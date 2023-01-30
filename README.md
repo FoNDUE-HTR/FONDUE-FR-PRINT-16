@@ -11,6 +11,8 @@ This repo contains the transcription of 16th c. prints.
 - Georgette de Montenay, _Emblèmes ou devises chrestiennes_, Lyon : J. Marcorelle, 1571 [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8609568n)
 - Maurice Scève, _Délie, object de plus haulte vertu_, Lyon, Sulpice Sabon, 1544 [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8609581h)
 - Pontus de Tyard, _Erreurs amoureuses_, Lyon, Jean de Tournes, 1549 [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8617188p)
+- Guillaume des Autels, _Repos de plus grand travail_, Lyon, J. de Tournes et G. Gazeau, 1550 [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k15272172)
+- Louise Labé, _Euvres de Louïze Labé_, Lyon, J. de Tournes, 1555, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b86095588)
 
 ## How to cite
 
