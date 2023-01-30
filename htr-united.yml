@@ -32,7 +32,7 @@ volume:
 - metric: files
   count: 784
 - metric: lines
-  count: 14393
+  count: 14392
 - metric: regions
   count: 2381
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/CITATION.cff
