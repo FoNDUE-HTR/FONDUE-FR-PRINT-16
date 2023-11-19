@@ -1,40 +1,40 @@
-schema: https://htr-united.github.io/schema/2022-04-15/schema.json
-title: FONDUE-FR-PRINT-16
-url: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16
 authors:
 - name: Gabay
-  surname: Simon
   orcid: 0000-0001-9094-4475
   roles:
   - transcriber
   - project-manager
   - quality-control
+  surname: Simon
+citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/CITATION.cff
 description: ' Transcriptions of French 16th c. prints '
-project-name: FoNDUE
-project-website: https://github.com/FoNDUE-HTR/
+format: Alto-XML
+hands:
+  count: unknown
+  precision: exact
 language:
 - fra
+license:
+  name: CC-BY 4.0
+  url: https://creativecommons.org/licenses/by/4.0/
+project-name: FoNDUE
+project-website: https://github.com/FoNDUE-HTR/
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 script:
 - Latn
 script-type: only-typed
 time:
-  notBefore: '1500'
   notAfter: '1600'
-hands:
-  count: unknown
-  precision: exact
-license:
-  name: CC-BY 4.0
-  url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
-volume:
-- metric: characters
-  count: 504656
-- metric: files
-  count: 931
-- metric: lines
-  count: 17817
-- metric: regions
-  count: 2830
-citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/CITATION.cff
+  notBefore: '1500'
+title: FONDUE-FR-PRINT-16
 transcription-guidelines: SegmOnto
+url: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16
+volume:
+- count: 504656
+  metric: characters
+- count: 931
+  metric: files
+- count: 17817
+  metric: lines
+- count: 2829
+  metric: regions
