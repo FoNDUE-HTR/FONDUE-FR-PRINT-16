@@ -1,9 +1,10 @@
-schema: https://htr-united.github.io/schema/2021-10-15/schema.json
+schema: https://htr-united.github.io/schema/2022-04-15/schema.json
 title: FONDUE-FR-PRINT-16
 url: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16
 authors:
 - name: Gabay
   surname: Simon
+  orcid: 0000-0001-9094-4475
   roles:
   - transcriber
   - project-manager
@@ -20,10 +21,10 @@ time:
   notBefore: '1500'
   notAfter: '1600'
 hands:
-  count: '1'
+  count: unknown
   precision: exact
 license:
-- name: CC-BY 4.0
+  name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 format: Alto-XML
 volume:
