@@ -6,13 +6,16 @@ This repo contains the transcription of 16th c. prints.
 
 ## Content
 
-- Pernette Du Guillet, _Les Rithmes et poésies de gentile et vertueuse dame D. Pernette Du Guillet_, Paris, 1546 [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k3182270)
-- Anne de Marquets, _Sonets, prières et devises en forme de pasquins pour l'assemblée des prélats et Docteurs tenue a Poissy_, Paris, 1562 [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1521180m)
-- Georgette de Montenay, _Emblèmes ou devises chrestiennes_, Lyon : J. Marcorelle, 1571 [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8609568n)
-- Maurice Scève, _Délie, object de plus haulte vertu_, Lyon, Sulpice Sabon, 1544 [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8609581h)
-- Pontus de Tyard, _Erreurs amoureuses_, Lyon, Jean de Tournes, 1549 [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8617188p)
-- Guillaume des Autels, _Repos de plus grand travail_, Lyon, J. de Tournes et G. Gazeau, 1550 [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k15272172)
-- Louise Labé, _Euvres de Louïze Labé_, Lyon, J. de Tournes, 1555, [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b86095588)
+| Author                 | Title                                             | Place | Date | Publisher                  | Source                                                     | Transcription |
+|------------------------|---------------------------------------------------|-------|------|----------------------------|------------------------------------------------------------|---------------|
+| Pernette Du Guillet    | _Les Rithmes et poésies_                          | Paris | 1546 |                            | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k3182270)  | S. Gabay      |
+| Anne de Marquets       | _Sonets, prières et devises en forme de pasquins_ | Paris | 1562 |                            | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k1521180m) | S. Gabay      |
+| Georgette de Montenay  | _Emblèmes ou devises chrestiennes_                | Lyon  | 1571 | J. Marcorelle              | [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8609568n) | S. Gabay      |
+| Maurice Scève          | _Délie, object de plus haulte vertu_              | Lyon  | 1544 | Sulpice Sabon              | [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8609581h) | S. Gabay      |
+| Pontus de Tyard        | _Erreurs amoureuses_                              | Lyon  | 1549 | J. de Tournes              | [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b8617188p) | S. Gabay      |
+| Guillaume des Autels   | _Repos de plus grand travail_                     | Lyon  | 1550 | J. de Tournes et G. Gazeau | [Gallica](https://gallica.bnf.fr/ark:/12148/bpt6k15272172) | S. Gabay      |
+| Louise Labé            | _Euvres de Louïze Labé_                           | Lyon  | 1555 | J. de Tournes              | [Gallica](https://gallica.bnf.fr/ark:/12148/btv1b86095588) | S. Gabay      |
+
 
 ## How to cite
 
