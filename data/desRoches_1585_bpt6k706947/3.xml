@@ -35,25 +35,25 @@
           
           
           <TextLine ID="line_3"
-                    
+                    TAGREFS="LT1579"
                     BASELINE="896 904 1151 899" 
-                    HPOS="893.0"
-                    VPOS="815.0"
-                    WIDTH="258.0"
-                    HEIGHT="110.0">
-            <Shape><Polygon POINTS="896 904 896 925 1151 925 1151 899 1143 860 1034 860 987 831 964 815 961 815 958 815 893 815 896 904"/></Shape>
+                    HPOS="893"
+                    VPOS="815"
+                    WIDTH="258"
+                    HEIGHT="110">
+            <Shape><Polygon POINTS="896 925 1151 925 1151 899 1143 860 1034 860 987 831 964 815 961 815 958 815 893 815 896 904"/></Shape>
 	    <String CONTENT="Roe."
-                    HPOS="893.0"
-                    VPOS="815.0"
-                    WIDTH="258.0"
-                    HEIGHT="110.0"
+                    HPOS="893"
+                    VPOS="815"
+                    WIDTH="258"
+                    HEIGHT="110"
                     WC="0.875448629260063"></String>
           </TextLine>
 
           
           
           <TextLine ID="line_4"
-                    
+                    TAGREFS="LT1579"
                     BASELINE="1015 1089 1141 1089" 
                     HPOS="936"
                     VPOS="912"
@@ -71,18 +71,18 @@
           
           
           <TextLine ID="line_5"
-                    
+                    TAGREFS="LT1579"
                     BASELINE="982 1210 1161 1205" 
-                    HPOS="979.0"
-                    VPOS="1138.0"
-                    WIDTH="182.0"
-                    HEIGHT="106.0">
+                    HPOS="979"
+                    VPOS="1138"
+                    WIDTH="182"
+                    HEIGHT="106">
             <Shape><Polygon POINTS="982 1210 982 1234 1140 1244 1143 1244 1145 1244 1148 1244 1161 1231 1161 1205 1158 1153 1140 1138 1138 1138 1135 1138 1132 1138 1130 1138 1060 1156 1008 1140 1005 1140 1003 1140 1000 1140 997 1140 979 1151 982 1210"/></Shape>
 	    <String CONTENT="L. "
-                    HPOS="979.0"
-                    VPOS="1138.0"
-                    WIDTH="182.0"
-                    HEIGHT="106.0"
+                    HPOS="979"
+                    VPOS="1138"
+                    WIDTH="182"
+                    HEIGHT="106"
                     WC="0.997675319512685"></String>
           </TextLine>
 

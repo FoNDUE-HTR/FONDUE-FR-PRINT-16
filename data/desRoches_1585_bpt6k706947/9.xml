@@ -206,13 +206,13 @@
           
           
           <TextLine ID="eSc_line_908d27b6"
-                    
+                    TAGREFS="LT1579"
                     BASELINE="1366 1760 2039 1764" 
                     HPOS="1361"
                     VPOS="1703"
                     WIDTH="675"
                     HEIGHT="93">
-            <Shape><Polygon POINTS="1365 1757 1361 1792 2028 1796 2036 1761 2032 1703 1365 1703 1365 1757"/></Shape>
+            <Shape><Polygon POINTS="1361 1792 2028 1796 2036 1761 2032 1703 1365 1703 1365 1757"/></Shape>
 	    <String CONTENT="Ferme ſur Arete apuié,"
                     HPOS="1361"
                     VPOS="1703"

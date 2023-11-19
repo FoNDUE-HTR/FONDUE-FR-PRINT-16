@@ -282,13 +282,13 @@
           
           
           <TextLine ID="eSc_line_47e9797b"
-                    
+                    TAGREFS="LT1579"
                     BASELINE="1346 2123 1748 2133 2382 2125" 
                     HPOS="1341"
                     VPOS="2057"
                     WIDTH="1038"
                     HEIGHT="106">
-            <Shape><Polygon POINTS="1345 2120 1345 2163 2375 2159 2379 2124 2371 2073 1341 2057 1345 2120"/></Shape>
+            <Shape><Polygon POINTS="1345 2163 2375 2159 2379 2124 2371 2073 1341 2057 1345 2120"/></Shape>
 	    <String CONTENT="Aux veux des Humains tant propice,"
                     HPOS="1341"
                     VPOS="2057"
