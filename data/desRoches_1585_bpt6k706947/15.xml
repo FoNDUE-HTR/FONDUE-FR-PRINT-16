@@ -106,13 +106,13 @@
           
           
           <TextLine ID="eSc_line_0251c422"
-                    
+                    TAGREFS="LT1579"
                     BASELINE="1304 1365 2034 1340" 
                     HPOS="1298"
                     VPOS="1286"
                     WIDTH="734"
                     HEIGHT="97">
-            <Shape><Polygon POINTS="1302 1364 1302 1383 2032 1368 2032 1336 2020 1286 1298 1301 1302 1364"/></Shape>
+            <Shape><Polygon POINTS="1302 1383 2032 1368 2032 1336 2020 1286 1298 1301 1302 1364"/></Shape>
 	    <String CONTENT="Et mon loyal deportement,"
                     HPOS="1298"
                     VPOS="1286"
