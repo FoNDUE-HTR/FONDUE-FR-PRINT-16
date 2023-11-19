@@ -5,6 +5,7 @@ authors:
   - transcriber
   - project-manager
   - quality-control
+  - support
   surname: Simon
 citation-file-link: https://github.com/FoNDUE-HTR/FONDUE-FR-PRINT-16/blob/master/CITATION.cff
 description: ' Transcriptions of French 16th c. prints '
